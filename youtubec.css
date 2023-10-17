@@ -1,0 +1,58 @@
+.fab fa-youtube {
+    font-style: none;
+    background-color: transparent;
+    font: 100px;
+}
+
+.btn {
+    border: 0px;
+    background-color: transparent;
+    font-size: 30px;
+
+
+}
+
+.logo {
+    color: red;
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+    margin-top: 10px;
+
+
+}
+
+.Search {
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 100x;
+    padding-top: 5px;
+    padding-right: 100px;
+    margin-top: 20px;
+}
+.icon {margin-top: 15px;
+
+}
+
+.video {
+    margin-top: 20px;
+
+}
+
+.ESPN {
+    background-color: red;
+    border-radius: 50px;
+    font-weight: bold;
+    border: none;
+    height: 50px;
+    width: 50px;
+    color: white;
+    margin-top: 15px;
+}
+
+.name {
+    display:inline-block;
+    margin-top: 20px;
+
+}
